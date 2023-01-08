@@ -1,1 +1,0 @@
-# General-Store-Database-Management-System
